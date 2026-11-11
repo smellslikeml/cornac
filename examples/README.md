@@ -130,6 +130,8 @@
 
 [transformer_rec_diginetica.py](transformer_rec_diginetica.py) - Example of Transformer-based Recommendation models (SASRec, TransformerRec with CLM/MLM objectives) with Diginetica dataset.
 
+[mamba4rec_movielens.py](mamba4rec_movielens.py) - Sequential Recommendation with Selective State Space Models (Mamba4Rec) with MovieLens dataset.
+
 [tiger_example.py](tiger_example.py) - Generative retrieval with semantic IDs (TIGER) on Amazon Beauty with Sentence-T5 item content embeddings, reproducing the paper's leave-last-out protocol.
 
 [letter_example.py](letter_example.py) - Learnable item tokenization (LETTER): constrained/Sinkhorn RQ-VAE with collaborative + diversity regularization and a Semantic-ID T5 generator, with Diginetica dataset.

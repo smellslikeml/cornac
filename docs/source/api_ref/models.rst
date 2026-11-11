@@ -31,6 +31,11 @@ Generating Long Semantic IDs in Parallel for Recommendation (RPG)
 .. automodule:: cornac.models.rpg.recom_rpg
    :members:
 
+Sequential Recommendation with Selective State Space Models (Mamba4Rec)
+-----------------------------------------------------------------------
+.. automodule:: cornac.models.mamba4rec.recom_mamba4rec
+   :members:
+
 Disentangled Multimodal Representation Learning for Recommendation (DMRL)
 -------------------------------------------------------------------------
 .. automodule:: cornac.models.dmrl.recom_dmrl

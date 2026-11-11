@@ -67,6 +67,7 @@ from .knn import UserKNN
 from .letter import LETTER
 from .lightgcn import LightGCN
 from .lrppm import LRPPM
+from .mamba4rec import Mamba4Rec
 from .mcf import MCF
 from .mf import MF
 from .mmmf import MMMF
